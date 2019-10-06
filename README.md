@@ -1,34 +1,29 @@
-Wheel of Fortune for Unity3D
-Component "Wheel of Fortune" (also known as "Gacha") for Unity3D will make your game more interesting and can improve the monetization! Players can turn the wheel for some coins and get a reward.
+# Foobar
 
-You can clone this repo or install it directly from Unity Asset Store (http://u3d.as/wqa)
+Foobar is a Python library for dealing with word pluralization.
 
-Gameplay video
-https://www.youtube.com/watch?v=Y9NvJwxLW5A
+## Installation
 
-Features:
-Easy reskin - just change the images by your own
-Mobile ready
-Easy setup of the cost and rewards
-Well commented code - just include the script and use it!
-Files structure:
-Animations - controllers and animations for Turn Button and Coins delta value
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-Fonts - free Dimbo Regular font
+```bash
+pip install foobar
+```
 
-Images - sprites for elements. Just replace them by your own to reskin
+## Usage
 
-Scenes - here you will find the sample scene with demonstration
+```python
+import foobar
 
-Scripts - code of this asset
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
 
-How to use:
-The sample scene contains all that you need for implement the Wheel of Fortune in your game.
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Create canvas with the elements
+Please make sure to update tests as appropriate.
 
-Plug-in FortuneWheelManager script to your main game object or to an empty GameObject
-
-Bind the click event of TurnButton to FortuneWheelManager.TurnWheel method
-
-Compatible with Unity 5.3.0 and higher
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
