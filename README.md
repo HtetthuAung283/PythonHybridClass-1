@@ -37,4 +37,8 @@ Please make sure to update tests as appropriate.
 # text in gray
 ```
 
+```diff
++green world ours
+```
+
 [MIT](https://choosealicense.com/licenses/mit/)
