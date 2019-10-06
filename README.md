@@ -26,4 +26,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-<span style="color: green"> [MIT](https://choosealicense.com/licenses/mit/)</span>
+<span style="color: green">Green </span>
+<font color="green"> Some green text </font>
+[MIT](https://choosealicense.com/licenses/mit/)
