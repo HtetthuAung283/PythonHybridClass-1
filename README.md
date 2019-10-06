@@ -28,4 +28,13 @@ Please make sure to update tests as appropriate.
 ## License
 <span style="color: green">Green </span>
 <font color="green"> Some green text </font>
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
 [MIT](https://choosealicense.com/licenses/mit/)
