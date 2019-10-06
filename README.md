@@ -21,13 +21,14 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 ![alt text](https://www.w3schools.com/w3css/img_lights.jpg)
 
 ## Contributing
+```
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+```
 
 Please make sure to update tests as appropriate.
 
 ## License
-<span style="color: green">Green </span>
-<font color="green"> Some green text </font>
+
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 - ![#f03c15]`Hello World`
 
