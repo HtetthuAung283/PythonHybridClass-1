@@ -1,0 +1,35 @@
+Python Class ->  Python Environment Setup ->	python 3.7.4 (64bit)
+												git
+												VLC
+												sublime text
+												pycharm community 2019
+												OBS 
+												Rainmeter
+												Miniconda
+												Ccleaner
+												Lepton Snippets
+
+
+github.com 					-> Username , password , email.com
+stackoverflow.com
+
+Minkhantaung1234
+
+Step 1 :	 Git Download 
+Step 2 :  	 Git Installation
+Step 3 :	 Github Account Creation
+Step 4 : 	 Git Repository
+Step 5 : 	 A File To upload on github
+Step 6 : 	 Git Command Line 
+			git init
+			git add .
+			git commit -m "first commit"
+			git git remote add origin https://github.com/brainseeddeveloper/??????.git
+			git push -u origin master
+
+			git remote add origin https://github.com/brainseeddeveloper/??????.git
+			git push -u origin master
+
+			git config --global user.name "username"
+			git config --global user.email "useremail@eamil.com"
+
